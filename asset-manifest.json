@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/20240411.git/static/js/main.9ca8dc2e.js",
-    "index.html": "/20240411.git/index.html",
-    "main.9ca8dc2e.js.map": "/20240411.git/static/js/main.9ca8dc2e.js.map"
+    "main.js": "/20240411/static/js/main.9ca8dc2e.js",
+    "index.html": "/20240411/index.html",
+    "main.9ca8dc2e.js.map": "/20240411/static/js/main.9ca8dc2e.js.map"
   },
   "entrypoints": [
     "static/js/main.9ca8dc2e.js"
