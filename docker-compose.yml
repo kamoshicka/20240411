@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - type: bind
+        source: .
+        target: /usr/src
+    command: sh -c "cd my-hacker-news && npm start"
+    ports:
+      - 3000:3000
+    stdin_open: true
